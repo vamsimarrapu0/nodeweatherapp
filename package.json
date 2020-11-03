@@ -1,0 +1,23 @@
+{
+  "name": "simple-nodejs-weather-app",
+  "version": "1.0.0",
+  "description": "![weatherApp-Demo](https://github.com/vaibhavpacharya/node-WeatherApp/blob/master/screencapture-weathernow-app-herokuapp-1503445616228.png?raw=true) # weatherApp-Demo Yelpcamp is a fictional web application for reviewing campsites using Node.js, ExpressJS, mongoose, passport, RESTful routing, jQuery, Javascript and bootstrap. ***  # Getting Started *** These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "marrapu vamsi",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "ejs": "^2.5.7",
+    "express": "^4.17.1",
+    "express-session": "^1.15.5",
+    "hbs": "^4.1.1",
+    "moment": "^2.18.1",
+    "nodemon": "^1.11.0",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {}
+}
