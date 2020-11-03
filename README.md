@@ -1,4 +1,4 @@
-![weatherApp-Demo](https://github.com/vaibhavpacharya/node-WeatherApp/blob/master/screencapture-weathernow-app-herokuapp-1503445616228.png?raw=true)
+![weatherApp-Demo](https://github.com/vamsimarrapu0/node-WeatherApp/blob/master/screencapture-weathernow-app-herokuapp-1503445616228.png?raw=true)
 # weatherApp-Demo
 Yelpcamp is a fictional web application for reviewing campsites using Node.js, ExpressJS, mongoose, passport, RESTful routing, jQuery, Javascript and bootstrap.
 *** 
@@ -27,7 +27,7 @@ You can use git clone or simply download the zip to your local machine.
 https://docs.npmjs.com/getting-started/installing-node
 
 >###Running Application:
- >cd into *yelpcamp* folder and type the following command in terminal:
+ >cd into *desktop* folder and type the following command in terminal:
 ```
 node app.js
 ```
