@@ -41,16 +41,10 @@ This application has been tested on several other browsers like Chrome, Mozilla 
 ***
 # Authors
 ***
-* Vaibhav Acharya
+* vamsi marrapu
 
 ***
-# License
-***
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This project is licensed under the MIT License - see the 'LICENSE.md' file for details
-
-***
 # Acknowledgments
 ***
 
@@ -60,7 +54,7 @@ Thank you for using or contributing to this repository.
 ***
 # Contact Me
 ***
-- **Gmail**			:	vaibhav.ach@gmail.com
-- **Facebook**		:	https://www.facebook.com/vaibhav.acharya.18
-- [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)]() **Twitter**		:	https://twitter.com/IAmVaibhav1993
-- **Github**		:	https://github.com/vaibhavpacharya
+- **Gmail**			:	vamsimarrapu3gamil.com
+- **Facebook**		:	https://www.facebook.com/vamsimarrapu
+- [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)]() **Twitter**		:	https://twitter.com/vamce0079
+- **Github**		:	https://github.com/vamsimarrapu0
